@@ -7,3 +7,6 @@ requests>=2.25.1
 lxml>=4.5.2
 beautifulsoup4>=4.10.0
 Pillow>=8.4.0
+
+
+\\I added to this to complete a homework assignment!
